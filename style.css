@@ -1,0 +1,6 @@
+nav{
+    display: flex;
+    background-color:whitesmoke ;
+    height: 100px;
+    justify-content:space-between;
+}
